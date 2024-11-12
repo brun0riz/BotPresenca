@@ -21,5 +21,5 @@ O **BotPresenca** é um bot desenvolvido para o Discord, com o objetivo de geren
 2. Instale as dependencias:
    ```bash
    pip install -r requirements.txt
-
+# 
 ### Desenvolvido por Bruno Trevizan Rizzatto
